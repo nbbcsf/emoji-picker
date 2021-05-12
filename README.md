@@ -1,3 +1,5 @@
+<b style="color:red">WORK IN PROGRESS</b>
+
 # emoji-picker
 An advanced JavaScript emoji picker
 
