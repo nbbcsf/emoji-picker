@@ -17,3 +17,6 @@ When using it, you will need 2 elements with IDs:
 + `openEmoji`: the button that toggles the emojis to show/hide
 
 And it should work!
+
+## Credits:
+This: `https://rawgit.com/theraot/emoji/master/emoji.js` for providing the emojis.
